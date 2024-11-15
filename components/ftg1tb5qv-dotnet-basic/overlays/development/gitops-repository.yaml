@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ftg1tb5qv-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ftg1tb5qv-dotnet-basic-gitops
